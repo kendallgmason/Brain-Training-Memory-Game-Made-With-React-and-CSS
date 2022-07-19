@@ -1,1 +1,76 @@
-# Brain-Training-Memory-Game-Made-With-React-and-CSS
+<img src="./Screenshot 2022-07-18 at 16.15.41.png" style="width: 1200px" />
+<img src="./Screenshot 2022-07-18 at 16.16.28.png" style="width: 1200px" />
+
+
+
+</br></br>
+
+
+</br></br>
+
+
+### :white_check_mark: About Braining Training Memory Game 
+
+I'd been wanting to make a game of some sort for a while and I am really happy with the outcome of this one. I wanted to create a brain training game of some sort and I'd not really used React to make this sort of app before. So with the help of a Net Ninja, I created this version of the memory app. 
+
+<br>
+
+Live Demo: https://kendallgtodo.netlify.app/
+
+</br></br>
+
+### :mortar_board: Main Learning Points:
+
+- First time using React to build a proper project, so learned to take it slow and study documentation/google when needed. 
+
+- Learned about breaking the problem down, planning and tackling one bit of the app at a time. 
+
+- Make sure to console log a lot and read errors/ not be afraid of them when they come up. 
+
+- How to pass down props and leanred more about CSS Styling. 
+
+</br></br>
+
+### :hammer: Built with:
+
+React
+
+JavaScript
+
+CSS
+
+HTML
+
+</br></br>
+
+### :checkered_flag: Getting Started:
+
+Clone the repo as instructed below
+
+</br></br>
+
+### Prerequisites:
+
+No prerequisites
+
+</br></br>
+
+### Installation
+
+Clone the repo
+
+git clone https://github.com/kendallgmason/Brain-Training-Memory-Game-Made-With-React-and-CSS.git
+
+npm start  in the console
+
+Open your browser and input: 
+
+localhost: 3000
+
+Enjoy!
+
+</br></br>
+
+### Usage
+
+Start by pressing new game, this will randomise the cards. Choose your first card by clicking on it, then choose a second card by clicking on it. If you match two cards, they will stay face up. If you do not, they will turn back face down. You win when you've match all pairs. 
