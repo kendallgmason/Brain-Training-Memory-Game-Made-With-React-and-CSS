@@ -17,13 +17,13 @@ I'd been wanting to make a game of some sort for a while and I am really happy w
 
 ### :mortar_board: Main Learning Points:
 
-- First time using React to build a proper project, so learned to take it slow and study documentation/google when needed. 
+- First time using React to build a game like project, so learned to take it slow and study documentation/google when needed and learn how it worked in this context. 
 
 - Learned about breaking the problem down, planning and tackling one bit of the app at a time. 
 
-- Make sure to console log a lot and read errors/ not be afraid of them when they come up. 
+- Learned about the way that useState and useEffect work with relation to a project like this. So that was a great discovery! 
 
-- How to pass down props and leanred more about CSS Styling. 
+- Learned more about CSS Animations and Transitions. 
 
 </br></br>
 
