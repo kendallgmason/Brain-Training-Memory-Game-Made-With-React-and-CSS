@@ -13,10 +13,6 @@
 
 I'd been wanting to make a game of some sort for a while and I am really happy with the outcome of this one. I wanted to create a brain training game of some sort and I'd not really used React to make this sort of app before. So with the help of a Net Ninja, I created this version of the memory app. 
 
-<br>
-
-Live Demo: https://kendallgtodo.netlify.app/
-
 </br></br>
 
 ### :mortar_board: Main Learning Points:
